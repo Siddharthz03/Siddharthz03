@@ -40,4 +40,10 @@
 
 ---
 
+#### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthz03&show_icons=true&theme=radical)
+
+---
+
 🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-zende-8230a8259/) • [Resume]([https://YOUR-RESUME-LINK.pdf](https://drive.google.com/file/d/17mxQua50K0WmZeVIBqc3Fo-2RyzgVR8H/view?usp=drive_link])
