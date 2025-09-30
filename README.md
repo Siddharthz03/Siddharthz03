@@ -7,7 +7,7 @@
 
 #### 💼 Internships
 - 🧠 **AI Intern** @ Infosys Springboard 5.0 (2024)
-- 📊 **Data Analyst Intern** @ Codezesk Technologies (2025)
+
 
 ---
 
