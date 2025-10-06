@@ -48,4 +48,4 @@
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-zende-8230a8259/) • [Resume]([https://YOUR-RESUME-LINK.pdf](https://drive.google.com/file/d/17mxQua50K0WmZeVIBqc3Fo-2RyzgVR8H/view?usp=drive_link])
+🔗 [LinkedIn](https://www.linkedin.com/in/siddharth-zende-8230a8259/) • [Resume]([https://YOUR-RESUME-LINK.pdf]([https://drive.google.com/file/d/17mxQua50K0WmZeVIBqc3Fo-2RyzgVR8H/view?usp=drive_link](https://drive.google.com/file/d/1FZCC0-NH9XtrvlHWtlt0niUKwbHYZtni/view?usp=sharing)])
